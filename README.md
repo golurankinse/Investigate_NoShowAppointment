@@ -9,5 +9,4 @@ This dataset collects information from 100k medical appointments in Brazil and i
 Be careful about the encoding of the last column: it says ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.
 
 <span style="font-family:calibri; color: blue; font-size:2em;">Have a look!</span>
-![medic](attachment:medic.png)
-![medic](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/PopeApex/Desktop/medic.png?version%3D1660409855205)
+![medic](https://user-images.githubusercontent.com/104328188/184505547-bf121e31-c2a7-47d2-a886-e1fe16c3c024.jpg)
